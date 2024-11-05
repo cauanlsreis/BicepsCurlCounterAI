@@ -1,4 +1,4 @@
-# Biceps Rep Counter
+# Biceps Rep Counter AI
 
 Este projeto é uma aplicação em Python para contar repetições de exercícios (rosca bíceps) usando visão computacional e aprendizado de máquina. A interface gráfica (GUI) é construída com Tkinter e captura imagens ao vivo da câmera para identificar o estágio do exercício (braço estendido ou contraído), utilizando o classificador `LinearSVC` para fazer as previsões. 
 
