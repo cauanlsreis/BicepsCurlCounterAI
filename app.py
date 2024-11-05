@@ -86,7 +86,7 @@ class App:
                 self.last_prediction = 2
 
     def counting_toggle(self):
-        self.counting_enable = not self.couting_enabled
+        self.counting_enable = not self.counting_enabled
 
     def save_for_class(self, class_num):
         ret, frame = self.camera.get_frame()
